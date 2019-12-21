@@ -1,0 +1,110 @@
+#griffin {
+
+padding-top: 10em;
+text-align: center;
+
+}
+@media screen and (max-width: 1100px){
+    #griffin {
+        padding-top: 8em;
+    }
+  }
+#griffin img {
+  object-fit: cover;
+  width: 100%;
+}
+#griffin h1 {
+  color: #006838;
+  line-height: .9em;
+  font-weight: 600;
+  font-size: 2.5em;
+
+}
+
+.howard {
+  max-width: 175px !important;
+}
+
+.g-services p {
+  padding-bottom: 15px;
+}
+/* .g-services i {
+  color: rgba(0,158,227, 0.78);
+} */
+
+.g-services  a {
+  color: #006838 !important;
+}
+
+.g-port-thumb {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+    background-color: purple;
+}
+
+.g-icon {
+  padding-top: 5px;
+}
+
+.ht-icon {
+  color: #006838;
+}
+
+.service-item  .btn-primary {
+  border-radius: 10px;
+  background-color: #006838;
+}
+
+.service-item p {
+  padding-bottom: 15px;
+}
+
+#g-post p {
+  margin-bottom: 1.5em;
+}
+
+.Previous-next {
+  text-align: center;
+}
+
+.g-previous {
+  display: block;
+  margin: 15px;
+  min-height: 40px;
+}
+.g-next {
+  display: block;
+  margin: 15px;
+  min-height: 40px;
+}
+
+.g-pagination{
+  text-align: center;
+}
+
+.g-date {
+  font-size: .8em;
+
+}
+
+.g-post-list li {
+  border-bottom: 1px solid #006838;
+  padding-bottom: 20px;
+   list-style: none;
+}
+
+.g-post-list a {
+  color: #006838;
+
+}
+
+.g-post-list h3 {
+  margin-bottom: 0px;
+  font-weight: 600;
+}
+
+.g-post-list strong {
+  color: #006838;
+}
