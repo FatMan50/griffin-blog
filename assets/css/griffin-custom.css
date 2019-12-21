@@ -108,3 +108,7 @@ text-align: center;
 .g-post-list strong {
   color: #006838;
 }
+
+.g-hidden {
+  display: none;
+}
