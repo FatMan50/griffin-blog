@@ -18,7 +18,7 @@ description: "Banking blog"
           <ul  class="g-post-list">
             {% for post in paginator.posts %}
               <li>
-                <h3><a href="{{site.baseurl}}/{{ post.url }}">{{ post.title }}</a></h3>
+                <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3>
                 <span class="g-date">{{ post.date | date: '%B %d, %Y' }} • Author: <strong>{{ post.author }}</strong></span>
                 {{ post.excerpt }}
               </li>
