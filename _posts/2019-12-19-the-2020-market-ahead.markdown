@@ -5,7 +5,7 @@ date:   2019-12-19
 author: Howard Taylor
 ---
 Most certainly, without a severe uptick in rates, we shouldn't see much of a severe CRE value issue.
-With cap rates rising slightly in 2020, the marginal delta of the increase will most likely be absorbed by the rent rate increases.<!--more-->
+With cap rates rising slightly in **2020**, the marginal delta of the increase will most likely be absorbed by the rent rate increases.<!--more-->
 
 We expect anchored retail to remain strong despite online shopping as local space keeps being absorbed by service tenants, restaurants, insurance store fronts, CBD oil locations, etc.
 
