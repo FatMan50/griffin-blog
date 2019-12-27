@@ -57,6 +57,21 @@ text-align: center;
   background-color: #006838;
 }
 
+.g-post-list  .btn-primary {
+  border-radius: 10px;
+  background-color: #006838;
+  color: #fff;
+  margin-top: 15px;
+  border: 1px solid #006838;
+}
+
+.g-post-list  .btn-primary:hover {
+  background-color: #fff;
+  color: #006838;
+  border: 1px solid #006838;
+  font-weight: 600;
+}
+
 .service-item p {
   padding-bottom: 15px;
 }

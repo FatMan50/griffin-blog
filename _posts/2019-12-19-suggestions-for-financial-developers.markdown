@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Suggestions for Financial Developers"
+title:  "Suggestions to Developers"
 description: "Be clear and communicative when detailing your expectations regarding the debt and or equity you feel comfortable with, be it ground up or existing."
 date:   2019-12-19
 author: Howard Taylor

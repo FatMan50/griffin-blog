@@ -21,6 +21,8 @@ description: "Banking blog"
                 <h3><a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></h3>
                 <span class="g-date">{{ post.date | date: '%B %d, %Y' }} • Author: <strong>{{ post.author }}</strong></span>
                 {{ post.excerpt }}
+
+                <a class="btn btn-primary" href="{{site.baseurl}}{{ post.url }}" role="button" title="Read more about {{ post.title }}">Read More...</a>
               </li>
             {% endfor %}
           </ul>
