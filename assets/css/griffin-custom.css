@@ -78,6 +78,16 @@ text-align: center;
 
 #g-post p {
   margin-bottom: 1.5em;
+  color: black;
+}
+
+#g-post a {
+  color: #006838;
+  text-decoration: underline;
+}
+
+#g-post a:hover {
+  color: red;
 }
 
 .Previous-next {
