@@ -4,6 +4,9 @@ title:  "Suggestions to Developers"
 description: "Be clear and communicative when detailing your expectations regarding the debt and or equity you feel comfortable with, be it ground up or existing."
 date:   2019-12-19
 author: Howard Taylor
+permalink: /suggestions-for-financial-developers/
+alt: Suggestions to Financial Developers
+image: /img/Suggestions-to-Developers.jpg
 ---
 
 Be clear and communicative when detailing your expectations regarding the debt and or equity you feel comfortable with, be it ground up or existing. Detail. what if any TIFS, grants, credits, PACE Bonds or other outside third-party funds are expected to be considered equity. Be certain that the line items in your Pro-forma, match legal documents about a given specific line item. <!--more-->Understand the timing and flows of third-party equity expected, and show a timeline, as one of your financing documents.

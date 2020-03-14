@@ -4,6 +4,9 @@ title:  "2019 Q2 Data Available"
 description: "As year end 2019 draws to a close, and Q2 data is available, it’s interesting to examine some stats."
 date:   2019-12-18
 author: Howard Taylor
+permalink: /q2-data-for-2019/
+alt: the 2019 Q2 Data is now Available
+image: /img/2019-Q2-Data-Available.jpg
 ---
 
 As 2019 draws to a close, and Q2 data is available, it’s interesting to examine some stats. Q2, 2019 saw lending from all sources increase. Those sources include banks, GSE’s, life companies, CMBS, etc., as well as alternative sources (funds).<!--more-->

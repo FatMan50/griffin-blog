@@ -4,6 +4,9 @@ title:  "The 2020 Market Ahead!"
 description: "A look forward to the markets for 2020"
 date:   2019-12-19
 author: Howard Taylor
+permalink: /the-2020-market-ahead/
+alt: the 2020 Market Ahead
+image: /img/The-2020-Market-Ahead.jpg
 ---
 
 Most certainly, without a severe uptick in rates, we shouldn’t see much of a severe CRE value issue. With cap rates rising slightly in 2020, the marginal delta of the increase will most likely be absorbed by the rent increases.<!--more-->

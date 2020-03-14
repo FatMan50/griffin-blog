@@ -4,6 +4,9 @@ title:  "Commercial Real Estate Investing: Industrial and Multi-Family Lead the 
 description: "It’s no surprise… industrial and multi-family are the predicted front-runners for the 2020 commercial real estate market."
 date:   2020-01-22
 author: Howard Taylor
+permalink: /commercial-real-estate-investing/
+alt: Industrial and Multi-Family Lead the Way
+image: /img/Commercial-Real-Estate-Investing-Industrial-and-Multi-Family-Lead-the-Way.jpg
 ---
 
 It’s no surprise… industrial and multi-family are the predicted front-runners for the 2020 commercial real estate market. But why is this? Many believe that investors favor industrial and multi-family projects because of their demand. <!--more-->Even in times of market volatility, these commercial real estate classes remain remarkably consistent – and consistency is always **KEY**! The simple rational for this consistency is due to a well-known economic term: supply and demand!

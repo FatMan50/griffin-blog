@@ -4,6 +4,9 @@ title:  "Private Equity will Continue to Shine in 2020"
 description: "Like hedge funds and mutual funds, private equity funds pool together resources from many different investors. But what makes private equity so much shinier than other investment vehicles?"
 date:   2020-02-05
 author: Howard Taylor
+permalink: /private-equity-will-continue-to-shine/
+alt: Private Equity will Continue to Shine in 2020
+image: /img/Private-Equity-will-Continue-to-Shine-in-2020.jpg
 ---
 
 Like hedge funds and mutual funds, private equity funds pool together resources from many different investors. But what makes private equity so much shinier than other investment vehicles? Two explanations: risks are spread out more evenly and buying power is magnified. In addition, private equity funds’ investments that are narrower and longer term.<!--more-->
@@ -24,5 +27,5 @@ Have questions about how to source the proper equity for Multi-family and Commer
 [1] Blumenthal, Adam. (2017, September 15). [How Does Private Equity Create Value?](https://insights.som.yale.edu/insights/how-does-private-equity-create-value) Retrieved January 13, 2020.
 
 
-[2] Rooney, Kate. (2019, August 12). [Investors, ‘Starved for Returns,’ Flood Private Markets in Search of High-Growth Opportunities.](https://www.cnbc.com/2019/08/12/investors-starved-for-returns-flood-private-markets.html) Retrieved January 13, 2020 from 
+[2] Rooney, Kate. (2019, August 12). [Investors, ‘Starved for Returns,’ Flood Private Markets in Search of High-Growth Opportunities.](https://www.cnbc.com/2019/08/12/investors-starved-for-returns-flood-private-markets.html) Retrieved January 13, 2020 from
 .
