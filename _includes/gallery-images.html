@@ -1,0 +1,15 @@
+<ul class="project-wrapper wow animated fadeInUp">
+{% for image in page.images %}
+<li class="portfolio-item">
+  <img src="{{ image.thumb }}" class="img-responsive" alt="{{ image.long-description }}">
+  <figcaption class="mask">
+    <h3>{{ image.short-title }}</h3>
+    <p>{{ image.short-description }}</p>
+  </figcaption>
+  <ul class="external">
+    <li><a class="fancybox" title="{{ image.title }}" data-fancybox-group="works" href="{{ image.image_path }}"><i class="fa fa-search"></i></a></li>
+    <!-- <li><a href=""><i class="fa fa-link"></i></a></li> -->
+  </ul>
+</li>
+{% endfor %}
+</ul>

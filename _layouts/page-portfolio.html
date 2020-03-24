@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" class="wide smoothscroll wow-animation">
+
+  {% include head.html %}
+
+  <body>
+    <!--========================================================
+                              HEADER
+    =========================================================-->
+    {% include header.html %}
+
+    <main>
+
+    <!--========================================================
+    													PORTFOLIO GALLERY
+    =========================================================-->
+
+
+
+    <!--========================================================
+    													ADDITIONAL CONTENT
+    =========================================================-->
+
+    <section id="portfolio" style="padding-top: 130px;">
+      <div class="container">
+        <div class="row">
+                <div class="sec-title text-center wow animated fadeInDown">
+        {{ content }}
+            </div>
+
+        {% include gallery-images.html %}
+      </div>
+    </div>
+  </section>
+
+
+
+    </main>
+
+    {% include footer.html %}
+
+  </body>
+
+
+</html>
