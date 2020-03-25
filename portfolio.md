@@ -236,4 +236,4 @@ images:
 
 # FEATURED PROJECTS
 
-With over **40** years of experience The Griffin Group has a very large and diverse portfolio of closed transactions. This gallery of images is just a small sample of the projects we’ve been involved with. Griffin’s capital platform has been the solution for many clients looking for construction and/or long-term financing. If you want to know more, or if you have any questions [please leave us a message](/index.html/#contact), or give us a call at **(239) 821-6666**.
+With over **40** years of experience The Griffin Group has a very large and diverse portfolio of closed transactions. This gallery of images is just a small sample of the projects we’ve closed. Griffin’s capital platform has been the solution for many clients looking for construction and/or long-term financing as well as equity. If you want to know more, or if you have any questions [please leave us a message](/index.html/#contact), or give us a call at **(239) 821-6666**.
