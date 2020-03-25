@@ -133,7 +133,7 @@ images:
    thumb: /img/portfolio/123_Townsend_Street-thumb.jpg
    short-title: Townsend Building
    short-description: San Francisco, CA
-   title: Financed by Bob Engel
+   title: Incubator lofts for startup businesses
    long-description: Townsend Building, San Francisco, CA, Incubator Space for Business
  - image_path: /img/portfolio/500px-Sibley_Triangle_Building.jpg
    thumb: /img/portfolio/500px-Sibley_Triangle_Building-thumb.jpg
