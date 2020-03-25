@@ -147,6 +147,12 @@ images:
    short-description: Minneapolis, MN
    title: Construction and Mini-Perm
    long-description: MSP Airport, Minneapolis, MN, On airport cargo facility
+ - image_path: /img/portfolio/Southtown_Plaza_Henrietta_NY.jpg
+   thumb: /img/portfolio/Southtown_Plaza_Henrietta_NY-thumb.jpg
+   short-title: Southtown Plaza
+   short-description: Henrietta, NY
+   title: Permanent financing
+   long-description: Southtown Plaza, Henrietta, NY, Power Center
  - image_path: /img/portfolio/Marketplace_Mall.jpg
    thumb: /img/portfolio/Marketplace_Mall-thumb.jpg
    short-title: The Marketplace Mall
