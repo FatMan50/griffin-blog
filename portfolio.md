@@ -7,8 +7,8 @@ images:
    thumb: /img/portfolio/North-Bay-Village-Bonita-Spring-Office-thumb.jpg
    short-title: North Bay Village
    short-description: Ground up construction and mini-perm - Bonita Springs,FL
-   title: View of the Alchemie from the rear at night.
-   long-description: North Bay Village, Mixed-use (office and retail) ground-up construction and mini-perm - Bonita Springs, Florida
+   title: North Bay Village
+   long-description: Mixed-use (office and retail) ground-up construction and mini-perm - Bonita Springs, Florida
  - image_path: /img/portfolio/Dakota-Abacoa-Apartments.jpg
    thumb: /img/portfolio/Dakota-Abacoa-Apartments-thumb.jpg
    short-title: Dakota Apartments
