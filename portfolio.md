@@ -6,9 +6,9 @@ images:
  - image_path: /img/portfolio/North-Bay-Village-Bonita-Spring-Office.jpg
    thumb: /img/portfolio/North-Bay-Village-Bonita-Spring-Office-thumb.jpg
    short-title: North Bay Village
-   short-description: Ground up construction and mini-perm - Bonita Springs,FL
-   title: North Bay Village
-   long-description: Mixed-use (office and retail) ground-up construction and mini-perm - Bonita Springs, Florida
+   short-description: Bonita Springs, Florida
+   title: Mixed-use Office and Retail
+   long-description: Ground-up construction and mini-perm for a 3 story mixed use space
  - image_path: /img/portfolio/Dakota-Abacoa-Apartments.jpg
    thumb: /img/portfolio/Dakota-Abacoa-Apartments-thumb.jpg
    short-title: Dakota Apartments
