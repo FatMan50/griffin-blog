@@ -7,230 +7,236 @@ images:
    thumb: /img/portfolio/North-Bay-Village-Bonita-Spring-Office-thumb.jpg
    short-title: North Bay Village
    short-description: Bonita Springs, Florida
-   title: Mixed-use Office and Retail
-   long-description: Ground-up construction and mini-perm for a 3 story mixed use space
+   title: 3 Story, Mixed use, Office and Retail
+   long-description: Ground Up Construction and Mini-Perm
  - image_path: /img/portfolio/Dakota-Abacoa-Apartments.jpg
    thumb: /img/portfolio/Dakota-Abacoa-Apartments-thumb.jpg
    short-title: Dakota Apartments
-   short-description: Ground-up construction and mini-perm - Jupiter, Florida
-   title: Dakota Apartments Abacoa
-   long-description: Ground-up construction and mini-perm – Jupiter, Florida
+   short-description: Abacoa Jupiter, FL
+   title: Multi-Family Apartments
+   long-description: Ground-up Construction and Mini-Perm
  - image_path: /img/portfolio/Altamont-and-West-First-street-Ft-Mayers.jpg
    thumb: /img/portfolio/Altamont-and-West-First-street-Ft-Mayers-Thumb.jpg
    short-title: West First Street
-   short-description: $25,000,000 Dirt loan - Fort Myers, FL
-   title: West First Street & Altamont Ave.
-   long-description: $25,000,000 Dirt loan for high rise condo towers and marina - Fort Myers, Florida
+   short-description: Fort Myers, FL
+   title: High Rise Condo and Marina Site
+   long-description: $25,000,000 Dirt Loan
  - image_path: /img/portfolio/uptown-lake-apartments-minneapolis-1.jpg
    thumb: /img/portfolio/uptown-lake-apartments-minneapolis-1-thumb.jpg
    short-title: Uptown
-   short-description: Preferred Equity Existing multi-family – Minneapolis, MN
-   title: Uptown
-   long-description: Uptown and Flats Apartments - Preferred Equity Existing multi-family – Minneapolis, MN
+   short-description: Minneapolis, MN
+   title: Suburban Multi-Family Apartments
+   long-description: Uptown and Flats Apartments - Preferred Equity Existing Multi-Family Apartments
  - image_path: /img/portfolio/Riva-Del-Largo-1.jpg
    thumb: /img/portfolio/Riva-Del-Largo-1-thumb.jpg
    short-title: Rivo Del Lago
-   short-description: High Rise Condominium - Ground up construction loan &amp; mezzanine loan.
-   title: Rivo Del Lago
-   long-description: $57,000,000 High Rise Condominium - Ground up construction loan, mezzanine debt &amp; finished inventory loan – Fort Myers, Florida
+   short-description: Fort Myers, FL
+   title: High-Rise Condo
+   long-description: $57,000,000 GGround up Construction Loan and Mezzanine Loan
  - image_path: /img/portfolio/st-geaorge-and-the-dragon-vacant-lot.jpg
    thumb: /img/portfolio/St-George-The-Dragon-building-Thumb.jpg
    short-title: The George
-   short-description: Former St. George and the Dragon, 5th Avenue South, Naples FL
-   title: Building Demolished in 2014
-   long-description: Formerly St. George and the Dragon, Dirt loan for the acquisition of vacant buildings. Future site of the ground-up project.5th Ave. S, Naples, Florida
+   short-description: Naples, FL
+   title: Vacant Restaurant
+   long-description: Formerly St. George and the Dragon, Dirt Loan
  - image_path: /img/portfolio/Uptown-Center-Naples-FL.jpg
    thumb: /img/portfolio/Uptown-Center-Naples-FL-thumb.jpg
    short-title: Uptown Center
-   short-description: Shopping plaza located in Naples Florida
-   title: Uptown Center
-   long-description: Construction & Mini-Perm – Located at the corner of Immokalee Road and Airport-Pulling Road, Naples Florida
+   short-description: Naples, Florida
+   title: Local Shadow Anchored Retail and Office, contiguous to Sam’s Club
+   long-description: Construction/ Mini-Perm
  - image_path: /img/portfolio/Hobson-Landing-Portland-Maine.jpg
    thumb: /img/portfolio/Hobson-Landing-Portland-Maine-thumb.jpg
    short-title: Hobson's Landing
-   short-description: Hobson's Landing Portland Maine.
-   title: Hobson's Landing
-   long-description: Ground-up equity – Portland, Maine
+   short-description: Portland, ME
+   title: Condominiums
+   long-description: Ground-up equity
  - image_path: /img/portfolio/Parkland-Preserve-MAP.jpg
    thumb: /img/portfolio/Parkland-Preserve-MAP-thumb.jpg
    short-title: Parkland Preserve
-   short-description: Lots for National Home Builder – St. Augustine, FL
-   title: Parkland Preserve
-   long-description: Senior horizontal financing for developer lots (sold to national homebuilder DR Horton) – St. Augustine, Florida
+   short-description: St. Augustine, FL
+   title: Home Builder Lots
+   long-description: Senior Horizontal Financing for Developer Lots (sold to national homebuilder DR Horton)
  - image_path: /img/portfolio/Treviso-Bay-Site-Plan.jpg
    thumb: /img/portfolio/Treviso-Bay-Naples-drone-thumb.jpg
    short-title: Treviso Bay
-   short-description: TPC(PGA) Golf Course Community, Naples, FL
-   title: Treviso Ba
-   long-description: TPC(PGA) Golf Course Community, Naples, FL - Equity & Acquisition and horizontal development loan $170,000,000 Capital Stack.
+   short-description: Naples, FL
+   title: TPC(PGA) Golf Course Community
+   long-description: Equity, Acquisition and Horizontal Development loan $170,000,000 Capital Stack.
  - image_path: /img/portfolio/Blueberry_Hill_Apartments.jpg
    thumb: /img/portfolio/Blueberry_Hill_Apartments-thumb.jpg
-   short-title: Blueberry Hill
+   short-title: Blueberry Hill Apartments
    short-description: Greece, NY
-   title: Blueberry Hill Apartments
+   title: Suburban Multi-Family
    long-description: HUD 221D4
  - image_path: /img/portfolio/builders_exchange_linden_oaks.jpg
    thumb: /img/portfolio/builders_exchange_linden_oaks-thumb.jpg
-   short-title: Builders Exchange Building
+   short-title: Builders Exchange
    short-description: Perinton, NY
-   title: Builders Exchange Building
-   long-description: construction/perm
+   title: Suburban free standing Office
+   long-description: Construction and Permanent
  - image_path: /img/portfolio/Regal_Elmwood_Center_THEATRE_Elmwood_Ave.jpg
    thumb: /img/portfolio/Regal_Elmwood_Center_THEATRE_Elmwood_Ave-thumb.jpg
    short-title: Regal Cinema
    short-description: Buffalo, NY
    title: Regal Cinema
-   long-description: construction/mini-perm
+   long-description: Construction/Mini- Perm
  - image_path: /img/portfolio/exterior-at-monterey-bay-inn-california.jpg
    thumb: /img/portfolio/exterior-at-monterey-bay-inn-california-thumb.jpg
-   short-title: Hotel
+   short-title: Monterey Bay Inn
    short-description: Monterey, CA
-   title: Hotel, Monterey Bay
-   long-description: construction/mini-perm
+   title: Hotel/Resort
+   long-description: Construction/Mini- Perm
  - image_path: /img/portfolio/Tower_and_Shoppes_At_Sanctuary.jpg
    thumb: /img/portfolio/Tower_and_Shoppes_At_Sanctuary-thumb.jpg
    short-title: Tower and Shoppes
    short-description: Boca Raton, FL
-   title: Tower and shoppes at The Sanctuary
-   long-description: mixed use, acquisition, and permanent financing
+   title: Mixed use Retail and Office
+   long-description: Acquisition and Permanent Financing
  - image_path: /img/portfolio/US_Airports_Aviation.jpg
    thumb: /img/portfolio/US_Airports_Aviation-thumb.jpg
    short-title: US Airports
    short-description: Rochester, NY
-   title: US Airports
-   long-description: Air Cargo Ind Rev Bond Financing
+   title: On Airport Cargo Facility and Apron
+   long-description: Industrial Revenue Bond Financing
  - image_path: /img/portfolio/RYCO_Management_Powder_Mill_Office_Park.jpg
    thumb: /img/portfolio/RYCO_Management_Powder_Mill_Office_Park-thumb.jpg
    short-title: RYCO Office Park
    short-description: Perinton, NY
-   title: RYCO Office Park
+   title: Suburban Office Park
    long-description: Refinance
  - image_path: /img/portfolio/Turf_Suites_Albany_exterior.jpg
    thumb: /img/portfolio/Turf_Suites_Albany_exterior-thumb.jpg
-   short-title: Turf Hote
+   short-title: Turf Inn
    short-description: Albany, NY
-   title: Turf Hotel
+   title: Full Service Hotel
    long-description: Refinance
  - image_path: /img/portfolio/The_park_at_allens_creek.jpg
    thumb: /img/portfolio/The_park_at_allens_creek-thumb.jpg
    short-title: The Park at Allens Creek
    short-description: Brighton, NY
-   title: The Park at Allens Creek Office Park
+   title: Office Park
    long-description: Sale
  - image_path: /img/portfolio/Eastview_Mall.jpg
    thumb: /img/portfolio/Eastview_Mall-thumb.jpg
    short-title: Eastview Mall
    short-description: Victor NY
-   title: Eastview Mall
+   title: Regional Mall
    long-description: Refinance
  - image_path: /img/portfolio/ShopRite.jpg
    thumb: /img/portfolio/ShopRite-thumb.jpg
-   short-title: Fishkill Plaza ShopRite Center
+   short-title: Fishkill Plaza
    short-description: Fishkill, New York
-   title: Financed by Bob Engel
-   long-description: Fishkill Plaza ShopRite Center, Fishkill, NY, Grocery Anchored Center
+   title: Grocery Anchored Retail
+   long-description: Construction Mini-Perm
  - image_path: /img/portfolio/123_Townsend_Street.jpg
    thumb: /img/portfolio/123_Townsend_Street-thumb.jpg
    short-title: Townsend Building
    short-description: San Francisco, CA
    title: Incubator lofts for startup businesses
-   long-description: Townsend Building, San Francisco, CA, Incubator Space for Business
+   long-description: Permanent Financing
  - image_path: /img/portfolio/500px-Sibley_Triangle_Building.jpg
    thumb: /img/portfolio/500px-Sibley_Triangle_Building-thumb.jpg
    short-title: Triangle Building
    short-description: Rochester, NY
-   title: Permanent financing
-   long-description: Triangle Building, Rochester, NY, Corner of Main St. and East Ave.
+   title: Office Building
+   long-description: Permanent Financing
  - image_path: /img/portfolio/MSP-airport.jpg
    thumb: /img/portfolio/MSP-airport-thumb.jpg
    short-title: MSP Airport
    short-description: Minneapolis, MN
-   title: Construction and Mini-Perm
-   long-description: MSP Airport, Minneapolis, MN, On airport cargo facility
+   title: On Airport Cargo Facility
+   long-description: Construction and Mini-Perm
  - image_path: /img/portfolio/Southtown_Plaza_Henrietta_NY.jpg
    thumb: /img/portfolio/Southtown_Plaza_Henrietta_NY-thumb.jpg
    short-title: Southtown Plaza
    short-description: Henrietta, NY
-   title: Permanent financing
-   long-description: Southtown Plaza, Henrietta, NY, Power Center
+   title: Big Box Power Center
+   long-description: Permanent Financing
  - image_path: /img/portfolio/Marketplace_Mall.jpg
    thumb: /img/portfolio/Marketplace_Mall-thumb.jpg
    short-title: The Marketplace Mall
    short-description: Henrietta, NY
-   title: Industrial Revenue Bond Anchor Store
-   long-description: The Marketplace Mall, Henrietta, NY, Anchor Store
+   title: Anchor Store
+   long-description: Industrial Revenue Bond Financing
  - image_path: /img/portfolio/205_East_First_Street_Corning_NY14830.jpg
    thumb: /img/portfolio/205_East_First_Street_Corning_NY14830-thumb.jpg
    short-title: Corning Center
    short-description: Corning, NY
-   title: Construction and Mini-Perm
-   long-description: Corning Center, Corning, NY, Skilled Nursing Facility
+   title: Skilled Nursing Facility
+   long-description: Construction and Mini-Perm
  - image_path: /img/portfolio/Horseheads_NewYork_Apartment.jpg
    thumb: /img/portfolio/Horseheads_NewYork_Apartment-thumb.jpg
    short-title: Villager Apartments
    short-description: Horseheads, NY
-   title: Permanent financing
-   long-description: Villager Apartments, Horeseheads, NY, Garden Apartments Classic Area Design
+   title: Suburban Garden Apartments
+   long-description: Permanent Financing
  - image_path: /img/portfolio/Greenwich_Farms_Warwick.jpg
    thumb: /img/portfolio/Greenwich_Farms_Warwick-thumb.jpg
-   short-title: The Greenwich
-   short-description: Greenwich Village, NYC
-   title: Adaptive Reuse
-   long-description: The Greenwich, Greenwich Village, NYC, Condominiums  
+   short-title: Greenwich Farms
+   short-description: Warwick, RI
+   title: Senior Housing ALF/ILF/MC
+   long-description: Permanent Financing  
  - image_path: /img/portfolio/eastwood-apartments-rochester-ny-eastwood.jpg
    thumb: /img/portfolio/eastwood-apartments-rochester-ny-eastwood-thumb.jpg
    short-title: Eastwood Apartments
    short-description: Brighton, NY
-   title: Permanent financing
-   long-description: Eastwood Apartments, Brighton, NY, Garden Apartments In the heart of everythingt
+   title: Suburban Garden Apartments
+   long-description: Refinancing
  - image_path: /img/portfolio/imperial-north-apartment-homes-rochester-ny.jpg
    thumb: /img/portfolio/imperial-north-apartment-homes-rochester-ny-thumb.jpg
    short-title: Imperial North Apartments
    short-description: Greece, NY
-   title: Acquisition and sale
-   long-description: Imperial North Apartments, Greece, NY, Garden Apartments Near Lake Ontario
+   title: Suburban Garden Apartments
+   long-description: Acquisition and Sale
  - image_path: /img/portfolio/courtyard-apartments-greece-ny-farash.jpg
    thumb: /img/portfolio/courtyard-apartments-greece-ny-farash-thumb.jpg
    short-title: Courtyard Apartments
    short-description: Greece, NY
-   title: Permanent financing
-   long-description: Courtyard Apartments, Greece, NY, Garden Apartments Close to Industry Jobs
+   title: Garden Apartments
+   long-description: Permanent Financing
  - image_path: /img/portfolio/Roc_Parkway_Manor.jpg
    thumb: /img/portfolio/Roc_Parkway_Manor-thumb.jpg
    short-title: Parkway Manor Apartments
    short-description: Irondequoit, NY
-   title: Acquisition and sale
-   long-description: Parkway Manor Apartments, Irondequoit, NY, Garden Apartments Across from Hospital
+   title: Suburban Garden Apartments
+   long-description: Acquisition and Sale
  - image_path: /img/portfolio/Hilton_Garden_Inn.jpg
    thumb: /img/portfolio/Hilton_Garden_Inn-thumb.jpg
    short-title: Hilton Garden Inn
    short-description: Bushnells Basin, NY
-   title: Construction and Mini-Perm
-   long-description: Hilton Garden Inn, Bushnells Basin, NY, Hotel
+   title: Hotel
+   long-description: Construction and Mini-Perm
  - image_path: /img/portfolio/Pipers_Crossing_retail.jpg
    thumb: /img/portfolio/Pipers_Crossing_retail-thumb.jpg
    short-title: Piper's Crossing
    short-description: Naples, FL
-   title: Construction and Mini-Perm
-   long-description: Piper's Crossing, Naples, FL, Retail
+   title: Local Retail and Office
+   long-description: Construction and Mini Perm
  - image_path: /img/portfolio/publixstore-laurel-venice-fl.jpg
    thumb: /img/portfolio/publixstore-laurel-venice-fl-thumb.jpg
    short-title: Publix Shopping Center
    short-description: Venice, FL
-   title: Construction and Mini-Perm
-   long-description: Publix Shopping Center, Venice, FL, Retail
+   title: Grocery Anchored Retail
+   long-description: Construction and Mini Perm
  - image_path: /img/portfolio/Holiday_Inn_Express_Charlotte_West.jpg
    thumb: /img/portfolio/Holiday_Inn_Express_Charlotte_West-thumb.jpg
    short-title: Holiday Inn Express
    short-description: Gastonia, NC
-   title: Preferred Equity
-   long-description: Holiday Inn Express Charlotte West, Gastonia, NC, Hotel
+   title: Hotel
+   long-description: Preferred Equity
  - image_path: /img/portfolio/Comfort-Inn-Monticello-Charlottesville-VA.jpg
    thumb: /img/portfolio/Comfort-Inn-Monticello-Charlottesville-VA-thumb.jpg
    short-title: Comfort Inn
    short-description: Monticello-Charlottesville, VA
-   title: Preferred Equity
-   long-description: Comfort Inn, Monticello-Charlottesville, VA, Hotel
+   title: Hotel
+   long-description: Preferred Equity
+ - image_path: /img/portfolio/The-Greenwich-65-West-13th-St-NYC-Condo-Apartments.jpg
+   thumb: /img/portfolio/The-Greenwich-65-West-13th-St-NYC-Condo-Apartments-thumb.jpg
+   short-title: The Greenwich
+   short-description: Greenwich Village, NY
+   title: Condominiums
+   long-description: Adaptive Reuse, Heavy Lift
 
 ---
 
