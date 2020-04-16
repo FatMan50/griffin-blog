@@ -51,18 +51,42 @@ images:
    short-description: San Francisco, CA
    title: Incubator lofts for startup businesses
    long-description: Permanent Financing
- - image_path: /img/portfolio/Uptown-Center-Naples-FL.jpg
-   thumb: /img/portfolio/Uptown-Center-Naples-FL-thumb.jpg
-   short-title: Uptown Center
-   short-description: Naples, Florida
-   title: Local Shadow Anchored Retail and Office, contiguous to Sam’s Club
-   long-description: Construction / Mini-Perm
  - image_path: /img/portfolio/MSP-airport.jpg
    thumb: /img/portfolio/MSP-airport-thumb.jpg
    short-title: MSP Airport
    short-description: Minneapolis, MN
    title: On Airport Cargo Facility
    long-description: Construction and Mini-Perm
+ - image_path: /img/portfolio/Eastview_Mall.jpg
+   thumb: /img/portfolio/Eastview_Mall-thumb.jpg
+   short-title: Eastview Mall
+   short-description: Victor NY
+   title: Regional Mall
+   long-description: Refinance
+ - image_path: /img/portfolio/uptown-lake-apartments-minneapolis-1.jpg
+   thumb: /img/portfolio/uptown-lake-apartments-minneapolis-1-thumb.jpg
+   short-title: Uptown
+   short-description: Minneapolis, MN
+   title: Suburban Multi-Family Apartments
+   long-description: Uptown and Flats Apartments - Preferred Equity Existing Multi-Family Apartments
+ - image_path: /img/portfolio/Parkland-Preserve-MAP.jpg
+   thumb: /img/portfolio/Parkland-Preserve-MAP-thumb.jpg
+   short-title: Parkland Preserve
+   short-description: St. Augustine, FL
+   title: Home Builder Lots
+   long-description: Senior Horizontal Financing for Developer Lots (sold to national homebuilder DR Horton)
+ - image_path: /img/portfolio/st-geaorge-and-the-dragon-vacant-lot.jpg
+   thumb: /img/portfolio/St-George-The-Dragon-building-Thumb.jpg
+   short-title: The George
+   short-description: Naples, FL
+   title: Vacant Restaurant
+   long-description: Formerly St. George and the Dragon, Dirt Loan         
+ - image_path: /img/portfolio/Uptown-Center-Naples-FL.jpg
+   thumb: /img/portfolio/Uptown-Center-Naples-FL-thumb.jpg
+   short-title: Uptown Center
+   short-description: Naples, Florida
+   title: Local Shadow Anchored Retail and Office, contiguous to Sam’s Club
+   long-description: Construction / Mini-Perm
  - image_path: /img/portfolio/Blueberry_Hill_Apartments.jpg
    thumb: /img/portfolio/Blueberry_Hill_Apartments-thumb.jpg
    short-title: Blueberry Hill Apartments
@@ -87,24 +111,6 @@ images:
    short-description: Fort Myers, FL
    title: High Rise Condo and Marina Site
    long-description: $25,000,000 Dirt Loan
- - image_path: /img/portfolio/uptown-lake-apartments-minneapolis-1.jpg
-   thumb: /img/portfolio/uptown-lake-apartments-minneapolis-1-thumb.jpg
-   short-title: Uptown
-   short-description: Minneapolis, MN
-   title: Suburban Multi-Family Apartments
-   long-description: Uptown and Flats Apartments - Preferred Equity Existing Multi-Family Apartments
- - image_path: /img/portfolio/st-geaorge-and-the-dragon-vacant-lot.jpg
-   thumb: /img/portfolio/St-George-The-Dragon-building-Thumb.jpg
-   short-title: The George
-   short-description: Naples, FL
-   title: Vacant Restaurant
-   long-description: Formerly St. George and the Dragon, Dirt Loan
- - image_path: /img/portfolio/Parkland-Preserve-MAP.jpg
-   thumb: /img/portfolio/Parkland-Preserve-MAP-thumb.jpg
-   short-title: Parkland Preserve
-   short-description: St. Augustine, FL
-   title: Home Builder Lots
-   long-description: Senior Horizontal Financing for Developer Lots (sold to national homebuilder DR Horton)
  - image_path: /img/portfolio/Regal_Elmwood_Center_THEATRE_Elmwood_Ave.jpg
    thumb: /img/portfolio/Regal_Elmwood_Center_THEATRE_Elmwood_Ave-thumb.jpg
    short-title: Regal Cinema
@@ -141,12 +147,6 @@ images:
    short-description: Brighton, NY
    title: Office Park
    long-description: Sale
- - image_path: /img/portfolio/Eastview_Mall.jpg
-   thumb: /img/portfolio/Eastview_Mall-thumb.jpg
-   short-title: Eastview Mall
-   short-description: Victor NY
-   title: Regional Mall
-   long-description: Refinance
  - image_path: /img/portfolio/ShopRite.jpg
    thumb: /img/portfolio/ShopRite-thumb.jpg
    short-title: Fishkill Plaza
