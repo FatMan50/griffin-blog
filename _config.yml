@@ -16,7 +16,7 @@
 title: The Griffin Group International LLC
 email: dana@danaleegibson.com
 description: >- # this means to ignore newlines until "baseurl:"
-  The Griffin is a full service Real Estate Investment Banking firm, headquartered in Naples, Florida. Griffin has positioned itself to successfully advise clients regarding equity, preferred equity, JV, mezzanine and senior financing, maximizing client objectives.
+  The Griffin Group is a full service Real Estate Investment Banking firm, headquartered in Naples, Florida. Griffin has positioned itself to successfully advise clients regarding equity, preferred equity, JV, mezzanine and senior financing, maximizing client objectives.
 baseurl:  # the subpath of your site, e.g. /blog
 url:  https://thegriffingrp.com
 permalink: pretty
@@ -30,6 +30,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
+
+author: Howard Taylor
 
 paginate: 4
 paginate_path: "/blog/page:num/"
