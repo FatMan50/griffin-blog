@@ -10,7 +10,7 @@ image: /img/4-biggest-takeaways-from-the-naiop-coronavirus-impact-survey.jpg
 ---
 
 
-The [Commercial Real Estate Development Association, known as the NAIOP](https://naiop.org/), is a prestigious organization for members of the Commercial Real Estate community. NAIOP is an acronym for the group’s former name, **National Association for Industrial and Office Parks**. **NAIOP** provides advocacy, education, and business opportunities by connecting members in a powerful network in the CRE development and investment industry.<!--more-->
+The [Commercial Real Estate Development Association, known as the NAIOP](https://naiop.org/), is a prestigious organization for members of the Commercial Real Estate community. **NAIOP** is an acronym for the group’s former name, **National Association for Industrial and Office Parks**. **NAIOP** provides advocacy, education, and business opportunities by connecting members in a powerful network in the CRE development and investment industry.<!--more-->
 
 In the last two weeks of May, the **NAIOP** conducted its second survey of 461 members on how the coronavirus has affected their businesses and local markets. In the May survey, the developers were asked to compare how their business was performing in comparison to [the April survey results, which are also available on their website](http://blog.naiop.org/2020/04/naiop-survey-finds-tempered-optimism-among-delays-and-negotiations/). The survey results reveal the outbreak does continue to effect their business, and will likely do so for longer than previously anticipated. However, there is also indication that impacts have moderately diminished compared to April. Other promising results indicate Commercial real estate firms’ response to the outbreak has also evolved.
 
