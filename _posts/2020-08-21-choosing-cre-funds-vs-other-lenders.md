@@ -22,7 +22,7 @@ Targeted property type and class are specific.
 The majority of all our deals are non-recourse with “bad boy” carveouts and completion guarantees.
 
 ##### 4. Expediency
-Immediate funding is available, with delivery in as few as 120 days in most cases.
+Immediate funding is available, with delivery in as few as 60 days in most cases.
 
 ##### 5. Flexibility
 Terms are negotiable and customizable to your project’s specific needs.
