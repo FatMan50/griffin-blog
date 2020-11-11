@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Real Estate Investor Sentiment Fragmentation"
-description: "Acquiring a loan for your commercial real estate project can be a complicated process. Even the veteran developers with decades in the industry can sometimes struggle navigating the market."
+description: "In the commercial real estate market, Investor Sentiment varies across property types, unlike the unanimous decrease seen during the 2008 financial crisis."
 date: 2020-11-10
 author: Howard Taylor
 permalink: /real-estate-investor-sentiment-fragmentation/
