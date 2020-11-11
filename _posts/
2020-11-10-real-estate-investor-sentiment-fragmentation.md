@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Real Estate Investor Sentiment Fragmentation"
+description: "Acquiring a loan for your commercial real estate project can be a complicated process. Even the veteran developers with decades in the industry can sometimes struggle navigating the market."
+date: 2020-11-10
+author: Howard Taylor
+permalink: /real-estate-investor-sentiment-fragmentation/
+alt: Real Estate Investor Sentiment Fragmentation
+image: /img/real-estate-investor-sentiment-fragmentation.jpg
+---
+
+
+In the commercial real estate market, Investor Sentiment varies across property types, unlike the unanimous decrease seen during the 2008 financial crisis.
+
+The unexpected mix of both positive and negative views on the performance of CRE properties indicates that investors do see the potential for new opportunities. [This conclusion is a result of the Investment Sentiment Survey conducted by trade magazine National Real Estate Investor (NREI) in partnership with brokerage firm Marcus & Millichap.](https://www.nreionline.com/real-estate-investors-adopt-divergent-strategies-amid-uncertainty)<!--more-->
+
+The Investor Survey Index answers questions that CRE stakeholders have about investor views of the economy, expectations of property performance, and willingness to invest more capital. For one, the index does stand at a 10-year low. However, the sentiment remains above the score from the 2008 recession, which fell below 100 points. This is surprising considering the absolute chaos that has ripped through the global economy due to the Coronavirus pandemic.
+
+Senior Vice President and Director of Research Services at Marcus & Millichap, John Chang, [says that the big story found in these results is the variance of buy-side sentiments across property types](https://www.marcusmillichap.com/research/videos/investor-sentiment-survey-results-suggests-risings-activity). He says that there is typically a slight variance, but the different assets tend to trend together. In the financial crisis in 2008, sentiment for all property types fell and recovered concurrently. In contrast, the COVID-19 crisis indicates major fragmentation as some property types are anticipated to rise while others are projected to weaken. Over the next 12 months, industrial property values are expected to increase by 5.7 percent, self-storage by 5.6 percent, apartments by 5.1 percent, and senior housing by 3.0 percent. Yet strangely, hotels are anticipated to weaken by 7.7 percent, retail by 6.8 percent, and office by 5.0 percent.
+
+Chang says real estate investors need to keep their eyes on the horizon. Despite the adverse economic impacts of the pandemic, in the second half of 2020, about 60% of investors who own industrial property think now is a good time to buy, which is up from 44% a year ago. Additionally, 59% of senior housing owners think now is a good time to buy, compared to 55% last year. About 42% of apartment owners think it’s a good time to buy, up from 30% last year.
+
+The survey is administered semi-annually to clients of NREI and Marcus & Millichap that represent a broad cross-section of industry respondents such as private investors, developers, advisors, lenders, REITs, and more. This August, the survey results from 691 respondents formed the Investor Survey Index for the second half of 2020. The index has served as a trusted barometer for views on the CRE industry for 20 years.
