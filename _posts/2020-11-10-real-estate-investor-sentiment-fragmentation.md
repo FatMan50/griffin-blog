@@ -10,7 +10,7 @@ image: /img/real-estate-investor-sentiment-fragmentation.jpg
 ---
 
 
-In the commercial real estate market, Investor Sentiment varies across property types, unlike the unanimous decrease seen during the 2008 financial crisis.
+In the commercial real estate market, Investor Sentiment varies across property **types**, unlike the unanimous decrease seen during the 2008 financial crisis.
 
 The unexpected mix of both positive and negative views on the performance of CRE properties indicates that investors do see the potential for new opportunities. [This conclusion is a result of the Investment Sentiment Survey conducted by trade magazine National Real Estate Investor (NREI) in partnership with brokerage firm Marcus & Millichap.](https://www.nreionline.com/real-estate-investors-adopt-divergent-strategies-amid-uncertainty)<!--more-->
 
